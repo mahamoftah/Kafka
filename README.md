@@ -1,3 +1,3 @@
 ### **Object Detection -> Image Watermark -> Refreshing Browser**
     
-    - Name: Maha Mostafa Hashem Ali Moftah
+    Name: Maha Mostafa Hashem Ali Moftah
